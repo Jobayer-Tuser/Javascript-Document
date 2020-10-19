@@ -1,0 +1,26 @@
+RULE 1: HOW TO START JQUERY...
+
+     $(document).ready(
+	
+     );
+
+++++++ ++++++ ++++++ ++++++ ++++++ ++++++ ++++++ ++++++ ++++++ 
+     
+RULE 2: WHERE TO WRITE FUNCTION...
+
+After Each ACTION write
+
+     function()
+     {
+
+     }
+
+++++++ ++++++ ++++++ ++++++ ++++++ ++++++ ++++++ ++++++ ++++++ 
+
+RULE 3: STRUCTURE...
+
+     $(SELECTOR).ACTION()
+
+Therefore,
+
+     $(TAGNAME).FUNCTIONNAME("")
